@@ -29,4 +29,4 @@ and answers.
 - Add random flashcard practice.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
