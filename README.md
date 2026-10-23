@@ -28,5 +28,5 @@ A Python application that helps users study, revise, and test their knowledge us
 - Track study progress.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
