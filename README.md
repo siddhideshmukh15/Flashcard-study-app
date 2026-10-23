@@ -1,32 +1,32 @@
 # Flashcard Study App
 
 ## Description
-A simple Python application that helps users study and 
-revise topics using flashcards containing questions
-and answers.
+A Python application that helps users study, revise, and test their knowledge using flashcards.
 
 ## Features
-- Study flashcards and reveal answers.
-- Add custom questions and answers.
-- View all available flashcards.
-- Menu-driven interface.
-- Easy-to-use for beginners.
+- Study questions and reveal answers.
+- Take quizzes and track scores.
+- Add custom flashcards.
+- View all flashcards.
+- Delete unwanted flashcards.
+- Randomize quiz question order.
 
 ## Technologies Used
 - Python 3
 
 ## Concepts Learned
 - Dictionaries
-- While loops
+- Lists and loops
 - Conditional statements
 - User input
-- Key-value pairs
+- Random module
+- Score calculation
 
 ## Future Improvements
 - Save flashcards permanently in a file.
-- Add flashcard deletion and editing options.
-- Track correct and incorrect answers.
-- Add random flashcard practice.
+- Add multiple-choice questions.
+- Track study progress.
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
+
